@@ -1,0 +1,97 @@
+time: 10-19 19:05
+upload: 363.17 Mbps
+download: 300.50 Mbps
+ 
+time: 10-19 19:06
+upload: 309.15 Mbps
+download: 358.17 Mbps
+ 
+time: 10-19 19:07
+upload: 325.48 Mbps
+download: 375.42 Mbps
+ 
+time: 10-19 22:51
+upload: 373.99 Mbps
+download: 424.00 Mbps
+ 
+time: 10-19 22:53
+upload: 381 Mbps
+download: 450 Mbps
+ 
+time: 10-19 22:57
+upload: 271.69 Mbps
+download: 387.37 Mbps
+ 
+time: 10-20 15:32
+upload: 349.19 Mbps
+download: 386.20 Mbps
+ 
+time: 10-20 15:33
+upload: 290.20 Mbps
+download: 341.89 Mbps
+ 
+time: 10-20 15:34
+upload: 260.89 Mbps
+download: 348.29 Mbps
+ 
+time: 10-20 16:01
+upload: 289.08 Mbps
+download: 368.50 Mbps
+ 
+time: 10-20 16:02
+upload: 651.17 Mbps
+download: 765.08 Mbps
+ 
+time: 10-20 16:05
+upload: 677.91 Mbps
+download: 788.53 Mbps
+ 
+time: 10-20 16:06
+upload: 425.41 Mbps
+download: 687.25 Mbps
+ 
+time: 10-20 16:08
+upload: 166.30 Mbps
+download: 363.39 Mbps
+ 
+time: 10-20 16:19
+upload: 306.26 Mbps
+download: 341.75 Mbps
+ 
+time: 10-20 16:35
+upload: 362.52 Mbps
+download: 478.34 Mbps
+ 
+time: 10-20 16:36
+upload: 287.60 Mbps
+download: 356.01 Mbps
+ 
+time: 10-20 16:45
+upload: 319.77 Mbps
+download: 389.22 Mbps
+ 
+time: 10-20 16:55
+upload: 516.89 Mbps
+download: 576.34 Mbps
+ 
+time: 10-20 18:55
+upload: 390.48 Mbps
+download: 462.94 Mbps
+ 
+time: 10-20 18:59
+upload: 580.36 Mbps
+download: 732.14 Mbps
+ 
+time: 10-20 19:32
+upload: 404.86 Mbps
+download: 351.79 Mbps
+ 
+time: 10-20 19:48
+upload: 266.27 Mbps
+download: 176.92 Mbps
+ 
+time: 10-20 20:44
+upload: 403.96 Mbps
+download: 351.93 Mbps
+ 
+

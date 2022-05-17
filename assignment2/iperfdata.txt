@@ -1,0 +1,1509 @@
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-19T18:38:03 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5208
+[  5] local 130.233.224.196 port 36350 connected to 195.148.124.36 port 5208
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   700 MBytes  5.87 Gbits/sec    0   1.84 MBytes       
+[  5]   1.00-2.00   sec   685 MBytes  5.75 Gbits/sec    0   1.84 MBytes       
+[  5]   2.00-3.00   sec   691 MBytes  5.80 Gbits/sec    0   1.84 MBytes       
+[  5]   3.00-4.00   sec   639 MBytes  5.36 Gbits/sec    0   1.84 MBytes       
+[  5]   4.00-5.00   sec   620 MBytes  5.20 Gbits/sec    0   1.84 MBytes       
+[  5]   5.00-6.00   sec   645 MBytes  5.41 Gbits/sec    0   1.84 MBytes       
+[  5]   6.00-7.00   sec   596 MBytes  5.00 Gbits/sec    0   1.84 MBytes       
+[  5]   7.00-8.00   sec   572 MBytes  4.80 Gbits/sec    0   1.84 MBytes       
+[  5]   8.00-9.00   sec   566 MBytes  4.75 Gbits/sec    0   1.84 MBytes       
+[  5]   9.00-10.00  sec   608 MBytes  5.10 Gbits/sec    0   1.84 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.17 GBytes  5.30 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  6.17 GBytes  5.30 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5203
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 58710 connected to 195.148.124.36 port 5203
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   510 MBytes  4.28 Gbits/sec                  
+[  5]   1.00-2.00   sec   604 MBytes  5.06 Gbits/sec                  
+[  5]   2.00-3.00   sec   596 MBytes  5.00 Gbits/sec                  
+[  5]   3.00-4.00   sec   580 MBytes  4.86 Gbits/sec                  
+[  5]   4.00-5.00   sec   960 MBytes  8.05 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.27 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.27 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.28 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.08 GBytes  9.30 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  8.58 GBytes  7.37 Gbits/sec   37             sender
+[  5]   0.00-10.00  sec  8.58 GBytes  7.37 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-19T18:39:23 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5209
+[  5] local 130.233.224.196 port 55990 connected to 142.93.213.224 port 5209
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  59.4 KBytes   487 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  87.7 KBytes   718 Kbits/sec    0   24.0 KBytes       
+[  5]   3.00-4.00   sec   191 KBytes  1.56 Mbits/sec    0   41.0 KBytes       
+[  5]   4.00-5.00   sec   191 KBytes  1.56 Mbits/sec    0   66.5 KBytes       
+[  5]   5.00-6.00   sec   573 KBytes  4.69 Mbits/sec    0    105 KBytes       
+[  5]   6.00-7.00   sec   764 KBytes  6.26 Mbits/sec    0    173 KBytes       
+[  5]   7.00-8.00   sec  1.06 MBytes  8.86 Mbits/sec    0    262 KBytes       
+[  5]   8.00-9.00   sec   764 KBytes  6.25 Mbits/sec    0    355 KBytes       
+[  5]   9.00-10.00  sec  1.86 MBytes  15.6 Mbits/sec    1    413 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.59 MBytes  4.69 Mbits/sec    1             sender
+[  5]   0.00-10.33  sec  4.06 MBytes  3.29 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5208
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 35930 connected to 142.93.213.224 port 5208
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  90.5 KBytes   741 Kbits/sec                  
+[  5]   1.00-2.00   sec   732 KBytes  6.00 Mbits/sec                  
+[  5]   2.00-3.00   sec  4.71 MBytes  39.5 Mbits/sec                  
+[  5]   3.00-4.00   sec  7.46 MBytes  62.6 Mbits/sec                  
+[  5]   4.00-5.00   sec  8.12 MBytes  68.1 Mbits/sec                  
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   6.00-7.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   7.00-8.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.31  sec  61.1 MBytes  49.7 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  58.6 MBytes  49.2 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-19T19:38:03 EEST
+iperf3: error - the server is busy running a test. try again later
+Connecting to host ok1.iperf.comnet-student.eu, port 5206
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 49652 connected to 195.148.124.36 port 5206
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.06 GBytes  9.10 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.08 GBytes  9.24 Gbits/sec                  
+[  5]   2.00-3.00   sec  1.08 GBytes  9.26 Gbits/sec                  
+[  5]   3.00-4.00   sec  1.08 GBytes  9.26 Gbits/sec                  
+[  5]   4.00-5.00   sec  1.08 GBytes  9.28 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.27 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.26 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.24 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.08 GBytes  9.27 Gbits/sec                  
+[  5]   9.00-10.00  sec   892 MBytes  7.49 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  10.6 GBytes  9.07 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  10.6 GBytes  9.06 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-19T19:39:13 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5203
+[  5] local 130.233.224.196 port 57698 connected to 142.93.213.224 port 5203
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  58.0 KBytes   475 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  80.6 KBytes   660 Kbits/sec    0   25.5 KBytes       
+[  5]   3.00-4.00   sec   255 KBytes  2.09 Mbits/sec    0   42.4 KBytes       
+[  5]   4.00-5.00   sec   191 KBytes  1.56 Mbits/sec    0   69.3 KBytes       
+[  5]   5.00-6.00   sec   636 KBytes  5.21 Mbits/sec    0    117 KBytes       
+[  5]   6.00-7.00   sec   700 KBytes  5.73 Mbits/sec    0    180 KBytes       
+[  5]   7.00-8.00   sec   573 KBytes  4.69 Mbits/sec    0    259 KBytes       
+[  5]   8.00-9.00   sec  1.30 MBytes  10.9 Mbits/sec    0    372 KBytes       
+[  5]   9.00-10.00  sec  1.68 MBytes  14.1 Mbits/sec    0    492 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.52 MBytes  4.63 Mbits/sec    0             sender
+[  5]   0.00-10.32  sec  4.11 MBytes  3.34 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5208
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 38616 connected to 142.93.213.224 port 5208
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  90.5 KBytes   741 Kbits/sec                  
+[  5]   1.00-2.00   sec   732 KBytes  5.99 Mbits/sec                  
+[  5]   2.00-3.00   sec  4.64 MBytes  39.0 Mbits/sec                  
+[  5]   3.00-4.00   sec  8.09 MBytes  67.9 Mbits/sec                  
+[  5]   4.00-5.00   sec  8.69 MBytes  72.9 Mbits/sec                  
+[  5]   5.00-6.00   sec  8.26 MBytes  69.3 Mbits/sec                  
+[  5]   6.00-7.00   sec  7.99 MBytes  67.0 Mbits/sec                  
+[  5]   7.00-8.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.33  sec  63.5 MBytes  51.6 Mbits/sec   31             sender
+[  5]   0.00-10.00  sec  61.0 MBytes  51.1 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-19T20:38:03 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5203
+[  5] local 130.233.224.196 port 35984 connected to 195.148.124.36 port 5203
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   674 MBytes  5.65 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   725 MBytes  6.08 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   668 MBytes  5.60 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   724 MBytes  6.07 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   681 MBytes  5.71 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   735 MBytes  6.17 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   826 MBytes  6.93 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   808 MBytes  6.77 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   746 MBytes  6.26 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   756 MBytes  6.34 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  7.17 GBytes  6.16 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  7.17 GBytes  6.16 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5206
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 52512 connected to 195.148.124.36 port 5206
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.07 GBytes  9.18 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   2.00-3.00   sec   830 MBytes  6.96 Gbits/sec                  
+[  5]   3.00-4.00   sec   555 MBytes  4.66 Gbits/sec                  
+[  5]   4.00-5.00   sec   556 MBytes  4.66 Gbits/sec                  
+[  5]   5.00-6.00   sec   556 MBytes  4.66 Gbits/sec                  
+[  5]   6.00-7.00   sec   555 MBytes  4.65 Gbits/sec                  
+[  5]   7.00-8.00   sec   894 MBytes  7.50 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.06 GBytes  9.07 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.08 GBytes  9.28 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  8.14 GBytes  7.00 Gbits/sec   92             sender
+[  5]   0.00-10.00  sec  8.14 GBytes  6.99 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-19T20:39:23 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5210
+[  5] local 130.233.224.196 port 45198 connected to 142.93.213.224 port 5210
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   14.1 KBytes       
+[  5]   1.00-2.00   sec  55.1 KBytes   452 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  80.6 KBytes   660 Kbits/sec    0   21.2 KBytes       
+[  5]   3.00-4.00   sec   127 KBytes  1.04 Mbits/sec    0   39.6 KBytes       
+[  5]   4.00-5.00   sec   382 KBytes  3.13 Mbits/sec    0   67.9 KBytes       
+[  5]   5.00-6.00   sec   255 KBytes  2.08 Mbits/sec    0    115 KBytes       
+[  5]   6.00-7.00   sec   827 KBytes  6.78 Mbits/sec    0    180 KBytes       
+[  5]   7.00-8.00   sec   445 KBytes  3.65 Mbits/sec    0    232 KBytes       
+[  5]   8.00-9.00   sec  1.18 MBytes  9.90 Mbits/sec    0    351 KBytes       
+[  5]   9.00-10.00  sec  1.68 MBytes  14.1 Mbits/sec    0    485 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.08 MBytes  4.26 Mbits/sec    0             sender
+[  5]   0.00-10.32  sec  3.72 MBytes  3.02 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5209
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 33310 connected to 142.93.213.224 port 5209
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   178 KBytes  1.46 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.31 MBytes  11.0 Mbits/sec                  
+[  5]   2.00-3.00   sec  5.90 MBytes  49.5 Mbits/sec                  
+[  5]   3.00-4.00   sec  7.46 MBytes  62.6 Mbits/sec                  
+[  5]   4.00-5.00   sec  7.80 MBytes  65.4 Mbits/sec                  
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   6.00-7.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   7.00-8.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.33  sec  62.7 MBytes  50.9 Mbits/sec    6             sender
+[  5]   0.00-10.00  sec  62.7 MBytes  52.6 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-19T21:38:03 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5200
+[  5] local 130.233.224.196 port 33434 connected to 195.148.124.36 port 5200
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   755 MBytes  6.33 Gbits/sec    0   1.84 MBytes       
+[  5]   1.00-2.00   sec   714 MBytes  5.99 Gbits/sec    0   1.84 MBytes       
+[  5]   2.00-3.00   sec   651 MBytes  5.46 Gbits/sec    0   1.84 MBytes       
+[  5]   3.00-4.00   sec   602 MBytes  5.05 Gbits/sec    0   1.84 MBytes       
+[  5]   4.00-5.00   sec   568 MBytes  4.76 Gbits/sec    0   1.84 MBytes       
+[  5]   5.00-6.00   sec   564 MBytes  4.73 Gbits/sec    0   1.84 MBytes       
+[  5]   6.00-7.00   sec   562 MBytes  4.72 Gbits/sec    0   1.84 MBytes       
+[  5]   7.00-8.00   sec   581 MBytes  4.88 Gbits/sec    0   1.84 MBytes       
+[  5]   8.00-9.00   sec   625 MBytes  5.24 Gbits/sec    0   1.84 MBytes       
+[  5]   9.00-10.00  sec   584 MBytes  4.90 Gbits/sec    0   1.84 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.06 GBytes  5.21 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  6.06 GBytes  5.20 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5208
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 44872 connected to 195.148.124.36 port 5208
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.04 GBytes  8.93 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.08 GBytes  9.29 Gbits/sec                  
+[  5]   2.00-3.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   3.00-4.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   4.00-5.00   sec  1.08 GBytes  9.29 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.29 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.02 GBytes  8.75 Gbits/sec                  
+[  5]   9.00-10.00  sec   968 MBytes  8.12 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  10.6 GBytes  9.09 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  10.6 GBytes  9.09 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-19T21:39:23 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5208
+[  5] local 130.233.224.196 port 44402 connected to 142.93.213.224 port 5208
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  91.9 KBytes   753 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  76.4 KBytes   626 Kbits/sec    0   22.6 KBytes       
+[  5]   3.00-4.00   sec   127 KBytes  1.04 Mbits/sec    0   39.6 KBytes       
+[  5]   4.00-5.00   sec   382 KBytes  3.13 Mbits/sec    0   65.0 KBytes       
+[  5]   5.00-6.00   sec   255 KBytes  2.08 Mbits/sec    0    103 KBytes       
+[  5]   6.00-7.00   sec   700 KBytes  5.74 Mbits/sec    0    161 KBytes       
+[  5]   7.00-8.00   sec   954 KBytes  7.82 Mbits/sec    0    262 KBytes       
+[  5]   8.00-9.00   sec  1.30 MBytes  10.9 Mbits/sec    0    369 KBytes       
+[  5]   9.00-10.00  sec  1.74 MBytes  14.6 Mbits/sec    0    494 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.67 MBytes  4.76 Mbits/sec    0             sender
+[  5]   0.00-10.33  sec  4.26 MBytes  3.46 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5202
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 50176 connected to 142.93.213.224 port 5202
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   178 KBytes  1.46 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.31 MBytes  11.0 Mbits/sec                  
+[  5]   2.00-3.00   sec  5.76 MBytes  48.3 Mbits/sec                  
+[  5]   3.00-4.00   sec  6.40 MBytes  53.7 Mbits/sec                  
+[  5]   4.00-5.00   sec  6.41 MBytes  53.8 Mbits/sec                  
+[  5]   5.00-6.00   sec  6.42 MBytes  53.9 Mbits/sec                  
+[  5]   6.00-7.00   sec  6.43 MBytes  54.0 Mbits/sec                  
+[  5]   7.00-8.00   sec  6.44 MBytes  54.0 Mbits/sec                  
+[  5]   8.00-9.00   sec  6.45 MBytes  54.1 Mbits/sec                  
+[  5]   9.00-10.00  sec  6.47 MBytes  54.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.33  sec  54.6 MBytes  44.4 Mbits/sec    2             sender
+[  5]   0.00-10.00  sec  52.3 MBytes  43.8 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-19T22:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5208
+[  5] local 130.233.224.196 port 48190 connected to 195.148.124.36 port 5208
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   714 MBytes  5.99 Gbits/sec    0   1.93 MBytes       
+[  5]   1.00-2.00   sec   672 MBytes  5.64 Gbits/sec    0   1.93 MBytes       
+[  5]   2.00-3.00   sec   624 MBytes  5.23 Gbits/sec    0   1.93 MBytes       
+[  5]   3.00-4.00   sec   582 MBytes  4.89 Gbits/sec    0   1.93 MBytes       
+[  5]   4.00-5.00   sec   556 MBytes  4.67 Gbits/sec    0   1.93 MBytes       
+[  5]   5.00-6.00   sec   558 MBytes  4.68 Gbits/sec    0   1.93 MBytes       
+[  5]   6.00-7.00   sec   584 MBytes  4.90 Gbits/sec    0   1.93 MBytes       
+[  5]   7.00-8.00   sec   626 MBytes  5.25 Gbits/sec    0   1.93 MBytes       
+[  5]   8.00-9.00   sec   705 MBytes  5.91 Gbits/sec    0   1.93 MBytes       
+[  5]   9.00-10.00  sec   686 MBytes  5.76 Gbits/sec    0   1.93 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.16 GBytes  5.29 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  6.16 GBytes  5.29 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5205
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 50768 connected to 195.148.124.36 port 5205
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.05 GBytes  9.05 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   2.00-3.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   3.00-4.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   4.00-5.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.29 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.26 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.01 GBytes  8.68 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  10.7 GBytes  9.21 Gbits/sec    1             sender
+[  5]   0.00-10.00  sec  10.7 GBytes  9.21 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-19T22:39:22 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Connection timed out
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-19T23:38:02 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-19T23:39:02 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5200
+[  5] local 130.233.224.196 port 44384 connected to 142.93.213.224 port 5200
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  48.1 KBytes   394 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  87.7 KBytes   718 Kbits/sec    0   22.6 KBytes       
+[  5]   3.00-4.00   sec   191 KBytes  1.56 Mbits/sec    0   36.8 KBytes       
+[  5]   4.00-5.00   sec   191 KBytes  1.56 Mbits/sec    0   60.8 KBytes       
+[  5]   5.00-6.00   sec   445 KBytes  3.65 Mbits/sec    0   99.0 KBytes       
+[  5]   6.00-7.00   sec   827 KBytes  6.78 Mbits/sec    0    175 KBytes       
+[  5]   7.00-8.00   sec  1018 KBytes  8.34 Mbits/sec    0    253 KBytes       
+[  5]   8.00-9.00   sec  1.37 MBytes  11.5 Mbits/sec    0    363 KBytes       
+[  5]   9.00-10.00  sec  1.80 MBytes  15.1 Mbits/sec    0    468 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.01 MBytes  5.04 Mbits/sec    0             sender
+[  5]   0.00-10.31  sec  4.09 MBytes  3.33 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection timed out
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T00:38:02 EEST
+iperf3: error - the server is busy running a test. try again later
+Connecting to host ok1.iperf.comnet-student.eu, port 5204
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 33864 connected to 195.148.124.36 port 5204
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.06 GBytes  9.09 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.08 GBytes  9.28 Gbits/sec                  
+[  5]   2.00-3.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   3.00-4.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   4.00-5.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.08 GBytes  9.31 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  10.8 GBytes  9.28 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  10.8 GBytes  9.28 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T00:39:12 EEST
+iperf3: error - unable to connect to server: Connection timed out
+Connecting to host blr1.iperf.comnet-student.eu, port 5202
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 60182 connected to 142.93.213.224 port 5202
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  90.5 KBytes   741 Kbits/sec                  
+[  5]   1.00-2.00   sec   732 KBytes  5.99 Mbits/sec                  
+[  5]   2.00-3.00   sec  4.23 MBytes  35.5 Mbits/sec                  
+[  5]   3.00-4.00   sec  5.34 MBytes  44.8 Mbits/sec                  
+[  5]   4.00-5.00   sec  5.35 MBytes  44.9 Mbits/sec                  
+[  5]   5.00-6.00   sec  5.36 MBytes  45.0 Mbits/sec                  
+[  5]   6.00-7.00   sec  5.37 MBytes  45.1 Mbits/sec                  
+[  5]   7.00-8.00   sec  5.39 MBytes  45.2 Mbits/sec                  
+[  5]   8.00-9.00   sec  5.40 MBytes  45.3 Mbits/sec                  
+[  5]   9.00-10.00  sec  5.41 MBytes  45.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.32  sec  45.1 MBytes  36.7 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  42.6 MBytes  35.8 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T01:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5204
+[  5] local 130.233.224.196 port 35928 connected to 195.148.124.36 port 5204
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   742 MBytes  6.22 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   690 MBytes  5.79 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   619 MBytes  5.19 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   579 MBytes  4.85 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   561 MBytes  4.71 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   579 MBytes  4.85 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   579 MBytes  4.85 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   580 MBytes  4.87 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   572 MBytes  4.80 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   562 MBytes  4.72 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.92 GBytes  5.09 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  5.92 GBytes  5.08 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5204
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 35956 connected to 195.148.124.36 port 5204
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   522 MBytes  4.38 Gbits/sec                  
+[  5]   1.00-2.00   sec   559 MBytes  4.69 Gbits/sec                  
+[  5]   2.00-3.00   sec   559 MBytes  4.69 Gbits/sec                  
+[  5]   3.00-4.00   sec   556 MBytes  4.66 Gbits/sec                  
+[  5]   4.00-5.00   sec   876 MBytes  7.35 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.29 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.25 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.07 GBytes  9.19 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.07 GBytes  9.17 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  8.38 GBytes  7.20 Gbits/sec   71             sender
+[  5]   0.00-10.00  sec  8.38 GBytes  7.20 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T01:39:23 EEST
+iperf3: error - unable to connect to server: Connection timed out
+Connecting to host blr1.iperf.comnet-student.eu, port 5202
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 34008 connected to 142.93.213.224 port 5202
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   212 KBytes  1.74 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.55 MBytes  13.0 Mbits/sec                  
+[  5]   2.00-3.00   sec  5.32 MBytes  44.6 Mbits/sec                  
+[  5]   3.00-4.00   sec  5.34 MBytes  44.8 Mbits/sec                  
+[  5]   4.00-5.00   sec  5.35 MBytes  44.9 Mbits/sec                  
+[  5]   5.00-6.00   sec  5.36 MBytes  45.0 Mbits/sec                  
+[  5]   6.00-7.00   sec  5.38 MBytes  45.1 Mbits/sec                  
+[  5]   7.00-8.00   sec  5.39 MBytes  45.2 Mbits/sec                  
+[  5]   8.00-9.00   sec  5.40 MBytes  45.3 Mbits/sec                  
+[  5]   9.00-10.00  sec  7.16 MBytes  60.1 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.33  sec  49.0 MBytes  39.8 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  46.5 MBytes  39.0 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T02:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5200
+[  5] local 130.233.224.196 port 47504 connected to 195.148.124.36 port 5200
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   651 MBytes  5.46 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   622 MBytes  5.22 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   641 MBytes  5.38 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   709 MBytes  5.95 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   651 MBytes  5.46 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   605 MBytes  5.08 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   582 MBytes  4.89 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   640 MBytes  5.37 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   599 MBytes  5.02 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   815 MBytes  6.84 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.36 GBytes  5.47 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  6.36 GBytes  5.46 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5202
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 46726 connected to 195.148.124.36 port 5202
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.06 GBytes  9.09 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.09 GBytes  9.35 Gbits/sec                  
+[  5]   2.00-3.00   sec  1.09 GBytes  9.34 Gbits/sec                  
+[  5]   3.00-4.00   sec  1.09 GBytes  9.34 Gbits/sec                  
+[  5]   4.00-5.00   sec  1.09 GBytes  9.34 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.09 GBytes  9.33 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.09 GBytes  9.33 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.09 GBytes  9.33 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.09 GBytes  9.34 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.09 GBytes  9.34 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  10.8 GBytes  9.32 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  10.8 GBytes  9.31 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T02:39:22 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5202
+[  5] local 130.233.224.196 port 36008 connected to 142.93.213.224 port 5202
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   834 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  93.3 KBytes   765 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  76.4 KBytes   626 Kbits/sec    0   22.6 KBytes       
+[  5]   3.00-4.00   sec   127 KBytes  1.04 Mbits/sec    0   36.8 KBytes       
+[  5]   4.00-5.00   sec   318 KBytes  2.61 Mbits/sec    0   59.4 KBytes       
+[  5]   5.00-6.00   sec   445 KBytes  3.65 Mbits/sec    0    110 KBytes       
+[  5]   6.00-7.00   sec   700 KBytes  5.73 Mbits/sec    0    171 KBytes       
+[  5]   7.00-8.00   sec   954 KBytes  7.82 Mbits/sec    0    253 KBytes       
+[  5]   8.00-9.00   sec  1.30 MBytes  10.9 Mbits/sec    0    359 KBytes       
+[  5]   9.00-10.00  sec  1.80 MBytes  15.1 Mbits/sec    0    482 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.86 MBytes  4.91 Mbits/sec    0             sender
+[  5]   0.00-10.32  sec  4.05 MBytes  3.29 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection timed out
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T03:38:03 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5206
+[  5] local 130.233.224.196 port 43510 connected to 195.148.124.36 port 5206
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   667 MBytes  5.60 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   646 MBytes  5.42 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   642 MBytes  5.39 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   648 MBytes  5.43 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   601 MBytes  5.04 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   681 MBytes  5.71 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   685 MBytes  5.75 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   634 MBytes  5.32 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   592 MBytes  4.97 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   566 MBytes  4.75 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.21 GBytes  5.34 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  6.21 GBytes  5.34 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5205
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 35482 connected to 195.148.124.36 port 5205
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   530 MBytes  4.45 Gbits/sec                  
+[  5]   1.00-2.00   sec   552 MBytes  4.63 Gbits/sec                  
+[  5]   2.00-3.00   sec   553 MBytes  4.64 Gbits/sec                  
+[  5]   3.00-4.00   sec   553 MBytes  4.64 Gbits/sec                  
+[  5]   4.00-5.00   sec   896 MBytes  7.51 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.32 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.32 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.32 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.08 GBytes  9.32 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.08 GBytes  9.32 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  8.44 GBytes  7.25 Gbits/sec   88             sender
+[  5]   0.00-10.00  sec  8.44 GBytes  7.25 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T03:39:23 EEST
+iperf3: error - unable to connect to server: Connection timed out
+Connecting to host blr1.iperf.comnet-student.eu, port 5210
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 36294 connected to 142.93.213.224 port 5210
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   206 KBytes  1.69 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.55 MBytes  13.0 Mbits/sec                  
+[  5]   2.00-3.00   sec  6.42 MBytes  53.9 Mbits/sec                  
+[  5]   3.00-4.00   sec  7.89 MBytes  66.2 Mbits/sec                  
+[  5]   4.00-5.00   sec  8.13 MBytes  68.2 Mbits/sec                  
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   6.00-7.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   7.00-8.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.31  sec  64.2 MBytes  52.2 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  61.7 MBytes  51.7 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T04:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5207
+[  5] local 130.233.224.196 port 47250 connected to 195.148.124.36 port 5207
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   735 MBytes  6.17 Gbits/sec    0   1.84 MBytes       
+[  5]   1.00-2.00   sec   686 MBytes  5.76 Gbits/sec    0   1.84 MBytes       
+[  5]   2.00-3.00   sec   706 MBytes  5.92 Gbits/sec    0   1.84 MBytes       
+[  5]   3.00-4.00   sec   655 MBytes  5.49 Gbits/sec    0   1.84 MBytes       
+[  5]   4.00-5.00   sec   609 MBytes  5.11 Gbits/sec    0   1.84 MBytes       
+[  5]   5.00-6.00   sec   571 MBytes  4.79 Gbits/sec    0   1.84 MBytes       
+[  5]   6.00-7.00   sec   565 MBytes  4.74 Gbits/sec    0   1.84 MBytes       
+[  5]   7.00-8.00   sec   568 MBytes  4.76 Gbits/sec    0   1.84 MBytes       
+[  5]   8.00-9.00   sec   566 MBytes  4.75 Gbits/sec    0   1.84 MBytes       
+[  5]   9.00-10.00  sec   606 MBytes  5.09 Gbits/sec    0   1.84 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.12 GBytes  5.26 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  6.12 GBytes  5.25 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5209
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 51586 connected to 195.148.124.36 port 5209
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   842 MBytes  7.06 Gbits/sec                  
+[  5]   1.00-2.00   sec   553 MBytes  4.64 Gbits/sec                  
+[  5]   2.00-3.00   sec   552 MBytes  4.63 Gbits/sec                  
+[  5]   3.00-4.00   sec   551 MBytes  4.62 Gbits/sec                  
+[  5]   4.00-5.00   sec   547 MBytes  4.59 Gbits/sec                  
+[  5]   5.00-6.00   sec   835 MBytes  7.00 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.08 GBytes  9.31 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  8.13 GBytes  6.98 Gbits/sec  128             sender
+[  5]   0.00-10.00  sec  8.12 GBytes  6.98 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T04:39:22 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - control socket has closed unexpectedly
+Connecting to host blr1.iperf.comnet-student.eu, port 5200
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 56018 connected to 142.93.213.224 port 5200
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T05:38:04 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5209
+[  5] local 130.233.224.196 port 53770 connected to 195.148.124.36 port 5209
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   709 MBytes  5.95 Gbits/sec    0   1.84 MBytes       
+[  5]   1.00-2.00   sec   659 MBytes  5.53 Gbits/sec    0   1.84 MBytes       
+[  5]   2.00-3.00   sec   601 MBytes  5.04 Gbits/sec    0   1.84 MBytes       
+[  5]   3.00-4.00   sec   584 MBytes  4.90 Gbits/sec    0   1.84 MBytes       
+[  5]   4.00-5.00   sec   649 MBytes  5.44 Gbits/sec    0   1.84 MBytes       
+[  5]   5.00-6.00   sec   611 MBytes  5.13 Gbits/sec    0   1.84 MBytes       
+[  5]   6.00-7.00   sec   625 MBytes  5.24 Gbits/sec    0   1.84 MBytes       
+[  5]   7.00-8.00   sec   620 MBytes  5.20 Gbits/sec    0   1.84 MBytes       
+[  5]   8.00-9.00   sec   579 MBytes  4.85 Gbits/sec    0   1.84 MBytes       
+[  5]   9.00-10.00  sec   644 MBytes  5.40 Gbits/sec    0   1.84 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.13 GBytes  5.27 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  6.13 GBytes  5.27 Gbits/sec                  receiver
+
+iperf Done.
+iperf3: error - the server is busy running a test. try again later
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T05:39:15 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5210
+[  5] local 130.233.224.196 port 40644 connected to 142.93.213.224 port 5210
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  59.4 KBytes   487 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  90.5 KBytes   741 Kbits/sec    0   24.0 KBytes       
+[  5]   3.00-4.00   sec   191 KBytes  1.56 Mbits/sec    0   41.0 KBytes       
+[  5]   4.00-5.00   sec   191 KBytes  1.56 Mbits/sec    0   67.9 KBytes       
+[  5]   5.00-6.00   sec   509 KBytes  4.17 Mbits/sec    0    113 KBytes       
+[  5]   6.00-7.00   sec   764 KBytes  6.26 Mbits/sec    0    173 KBytes       
+[  5]   7.00-8.00   sec   573 KBytes  4.69 Mbits/sec    0    255 KBytes       
+[  5]   8.00-9.00   sec  1.24 MBytes  10.4 Mbits/sec    0    351 KBytes       
+[  5]   9.00-10.00  sec  1.80 MBytes  15.1 Mbits/sec    1    317 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.47 MBytes  4.58 Mbits/sec    1             sender
+[  5]   0.00-10.33  sec  3.89 MBytes  3.16 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5203
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 56006 connected to 142.93.213.224 port 5203
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   195 KBytes  1.60 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.09 MBytes  9.17 Mbits/sec                  
+[  5]   2.00-3.00   sec  1.59 MBytes  13.4 Mbits/sec                  
+[  5]   3.00-4.00   sec  1.84 MBytes  15.5 Mbits/sec                  
+[  5]   4.00-5.00   sec  2.13 MBytes  17.9 Mbits/sec                  
+[  5]   5.00-6.00   sec  2.47 MBytes  20.7 Mbits/sec                  
+[  5]   6.00-7.00   sec  2.86 MBytes  24.0 Mbits/sec                  
+[  5]   7.00-8.00   sec  3.31 MBytes  27.8 Mbits/sec                  
+[  5]   8.00-9.00   sec  3.83 MBytes  32.1 Mbits/sec                  
+[  5]   9.00-10.00  sec  4.44 MBytes  37.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.32  sec  26.6 MBytes  21.6 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  23.8 MBytes  19.9 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T06:38:04 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5200
+[  5] local 130.233.224.196 port 56330 connected to 195.148.124.36 port 5200
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   696 MBytes  5.84 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   659 MBytes  5.53 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   614 MBytes  5.15 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   578 MBytes  4.84 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   568 MBytes  4.76 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   605 MBytes  5.08 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   636 MBytes  5.34 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   584 MBytes  4.90 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   569 MBytes  4.77 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   566 MBytes  4.75 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.93 GBytes  5.09 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  5.93 GBytes  5.09 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5206
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 50138 connected to 195.148.124.36 port 5206
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.03 GBytes  8.86 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   2.00-3.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   3.00-4.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   4.00-5.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.07 GBytes  9.19 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.29 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.08 GBytes  9.31 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  10.8 GBytes  9.25 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  10.8 GBytes  9.25 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T06:39:24 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5205
+[  5] local 130.233.224.196 port 33906 connected to 142.93.213.224 port 5205
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  91.9 KBytes   753 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  79.2 KBytes   649 Kbits/sec    0   22.6 KBytes       
+[  5]   3.00-4.00   sec   191 KBytes  1.56 Mbits/sec    0   38.2 KBytes       
+[  5]   4.00-5.00   sec   191 KBytes  1.56 Mbits/sec    0   62.2 KBytes       
+[  5]   5.00-6.00   sec   509 KBytes  4.17 Mbits/sec    0    102 KBytes       
+[  5]   6.00-7.00   sec   827 KBytes  6.78 Mbits/sec    0    170 KBytes       
+[  5]   7.00-8.00   sec  1018 KBytes  8.34 Mbits/sec    0    264 KBytes       
+[  5]   8.00-9.00   sec  1.43 MBytes  12.0 Mbits/sec    0    372 KBytes       
+[  5]   9.00-10.00  sec  1.93 MBytes  16.2 Mbits/sec    0    508 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.29 MBytes  5.28 Mbits/sec    0             sender
+[  5]   0.00-10.34  sec  4.23 MBytes  3.44 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection timed out
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T07:38:05 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5200
+[  5] local 130.233.224.196 port 58348 connected to 195.148.124.36 port 5200
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   701 MBytes  5.88 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   726 MBytes  6.09 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   675 MBytes  5.66 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   700 MBytes  5.87 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   646 MBytes  5.42 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   604 MBytes  5.06 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   570 MBytes  4.78 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   611 MBytes  5.13 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   621 MBytes  5.21 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   579 MBytes  4.85 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.28 GBytes  5.40 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  6.28 GBytes  5.39 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5206
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 52156 connected to 195.148.124.36 port 5206
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.06 GBytes  9.07 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.08 GBytes  9.29 Gbits/sec                  
+[  5]   2.00-3.00   sec  1.08 GBytes  9.28 Gbits/sec                  
+[  5]   3.00-4.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   4.00-5.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.30 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.07 GBytes  9.23 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.08 GBytes  9.31 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  10.8 GBytes  9.27 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  10.8 GBytes  9.27 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T07:39:26 EEST
+iperf3: error - unable to connect to server: Connection timed out
+Connecting to host blr1.iperf.comnet-student.eu, port 5209
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 33004 connected to 142.93.213.224 port 5209
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   164 KBytes  1.34 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.22 MBytes  10.2 Mbits/sec                  
+[  5]   2.00-3.00   sec  5.77 MBytes  48.4 Mbits/sec                  
+[  5]   3.00-4.00   sec  7.23 MBytes  60.7 Mbits/sec                  
+[  5]   4.00-5.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec                  
+[  5]   7.00-8.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.31  sec  64.4 MBytes  52.4 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  61.9 MBytes  51.9 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T08:38:03 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5206
+[  5] local 130.233.224.196 port 54774 connected to 195.148.124.36 port 5206
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.01 GBytes  8.69 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec  1.04 GBytes  8.93 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec  1.04 GBytes  8.93 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec  1.05 GBytes  9.00 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec  1.01 GBytes  8.66 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec  1.00 GBytes  8.61 Gbits/sec    0   1.85 MBytes       
+[  5]   6.00-7.00   sec  1.02 GBytes  8.73 Gbits/sec    0   1.85 MBytes       
+[  5]   7.00-8.00   sec  1.03 GBytes  8.82 Gbits/sec    0   1.85 MBytes       
+[  5]   8.00-9.00   sec  1.03 GBytes  8.82 Gbits/sec    0   1.85 MBytes       
+[  5]   9.00-10.00  sec  1.01 GBytes  8.70 Gbits/sec    0   1.85 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  10.2 GBytes  8.79 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  10.2 GBytes  8.79 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5206
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 54802 connected to 195.148.124.36 port 5206
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   538 MBytes  4.51 Gbits/sec                  
+[  5]   1.00-2.00   sec   557 MBytes  4.67 Gbits/sec                  
+[  5]   2.00-3.00   sec   549 MBytes  4.61 Gbits/sec                  
+[  5]   3.00-4.00   sec   511 MBytes  4.28 Gbits/sec                  
+[  5]   4.00-5.00   sec   852 MBytes  7.15 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.08 GBytes  9.31 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.07 GBytes  9.22 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  8.35 GBytes  7.17 Gbits/sec  117             sender
+[  5]   0.00-10.00  sec  8.35 GBytes  7.17 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T08:39:23 EEST
+iperf3: error - unable to connect to server: Connection timed out
+iperf3: error - unable to connect to server: Connection timed out
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T09:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5209
+[  5] local 130.233.224.196 port 34812 connected to 195.148.124.36 port 5209
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   971 MBytes  8.15 Gbits/sec    0   1.84 MBytes       
+[  5]   1.00-2.00   sec  1.04 GBytes  8.89 Gbits/sec    0   1.84 MBytes       
+[  5]   2.00-3.00   sec  1.03 GBytes  8.83 Gbits/sec    0   1.84 MBytes       
+[  5]   3.00-4.00   sec  1.00 GBytes  8.63 Gbits/sec    0   1.84 MBytes       
+[  5]   4.00-5.00   sec   975 MBytes  8.18 Gbits/sec    0   1.84 MBytes       
+[  5]   5.00-6.00   sec  1005 MBytes  8.43 Gbits/sec    0   1.84 MBytes       
+[  5]   6.00-7.00   sec  1014 MBytes  8.50 Gbits/sec    0   1.84 MBytes       
+[  5]   7.00-8.00   sec   995 MBytes  8.35 Gbits/sec    0   1.84 MBytes       
+[  5]   8.00-9.00   sec   841 MBytes  7.06 Gbits/sec    0   1.84 MBytes       
+[  5]   9.00-10.00  sec  1005 MBytes  8.43 Gbits/sec    0   1.84 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  9.71 GBytes  8.34 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  9.71 GBytes  8.34 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5207
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 58766 connected to 195.148.124.36 port 5207
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   500 MBytes  4.19 Gbits/sec                  
+[  5]   1.00-2.00   sec   555 MBytes  4.66 Gbits/sec                  
+[  5]   2.00-3.00   sec   555 MBytes  4.65 Gbits/sec                  
+[  5]   3.00-4.00   sec   556 MBytes  4.66 Gbits/sec                  
+[  5]   4.00-5.00   sec   610 MBytes  5.12 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.06 GBytes  9.14 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.06 GBytes  9.10 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.04 GBytes  8.97 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.06 GBytes  9.09 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.08 GBytes  9.23 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  8.01 GBytes  6.88 Gbits/sec  102             sender
+[  5]   0.00-10.00  sec  8.01 GBytes  6.88 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T09:39:22 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5210
+[  5] local 130.233.224.196 port 49942 connected to 142.93.213.224 port 5210
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  56.6 KBytes   464 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  89.1 KBytes   730 Kbits/sec    0   22.6 KBytes       
+[  5]   3.00-4.00   sec   136 KBytes  1.11 Mbits/sec    0   36.8 KBytes       
+[  5]   4.00-5.00   sec   318 KBytes  2.61 Mbits/sec    0   62.2 KBytes       
+[  5]   5.00-6.00   sec   636 KBytes  5.21 Mbits/sec    0    117 KBytes       
+[  5]   6.00-7.00   sec   382 KBytes  3.13 Mbits/sec    0    173 KBytes       
+[  5]   7.00-8.00   sec   891 KBytes  7.30 Mbits/sec    0    256 KBytes       
+[  5]   8.00-9.00   sec  1.24 MBytes  10.4 Mbits/sec    0    346 KBytes       
+[  5]   9.00-10.00  sec  1.62 MBytes  13.6 Mbits/sec    0    482 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.41 MBytes  4.54 Mbits/sec    0             sender
+[  5]   0.00-10.32  sec  4.07 MBytes  3.31 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5200
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 39308 connected to 142.93.213.224 port 5200
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   178 KBytes  1.46 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.31 MBytes  11.0 Mbits/sec                  
+[  5]   2.00-3.00   sec  6.12 MBytes  51.3 Mbits/sec                  
+[  5]   3.00-4.00   sec  8.13 MBytes  68.2 Mbits/sec                  
+[  5]   4.00-5.00   sec  10.4 MBytes  86.9 Mbits/sec                  
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   6.00-7.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   7.00-8.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec                  
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.33  sec  68.6 MBytes  55.7 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  66.1 MBytes  55.4 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T10:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5208
+[  5] local 130.233.224.196 port 50058 connected to 195.148.124.36 port 5208
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.00 GBytes  8.63 Gbits/sec    0   1.85 MBytes       
+[  5]   1.00-2.00   sec  1018 MBytes  8.54 Gbits/sec   41   1.44 MBytes       
+[  5]   2.00-3.00   sec  1.03 GBytes  8.81 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec  1.03 GBytes  8.86 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec  1.00 GBytes  8.63 Gbits/sec    0   1.84 MBytes       
+[  5]   5.00-6.00   sec   998 MBytes  8.37 Gbits/sec    0   1.84 MBytes       
+[  5]   6.00-7.00   sec   980 MBytes  8.22 Gbits/sec    0   1.84 MBytes       
+[  5]   7.00-8.00   sec   978 MBytes  8.20 Gbits/sec    0   1.84 MBytes       
+[  5]   8.00-9.00   sec  1.00 GBytes  8.63 Gbits/sec    0   1.84 MBytes       
+[  5]   9.00-10.00  sec  1011 MBytes  8.48 Gbits/sec    0   1.84 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  9.94 GBytes  8.54 Gbits/sec   41             sender
+[  5]   0.00-10.00  sec  9.94 GBytes  8.53 Gbits/sec                  receiver
+
+iperf Done.
+iperf3: error - the server is busy running a test. try again later
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T10:39:12 EEST
+iperf3: error - unable to connect to server: Connection timed out
+Connecting to host blr1.iperf.comnet-student.eu, port 5205
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 44560 connected to 142.93.213.224 port 5205
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   209 KBytes  1.71 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.22 MBytes  10.2 Mbits/sec                  
+[  5]   2.00-3.00   sec  1.87 MBytes  15.7 Mbits/sec                  
+[  5]   3.00-4.00   sec  2.17 MBytes  18.2 Mbits/sec                  
+[  5]   4.00-5.00   sec  2.52 MBytes  21.2 Mbits/sec                  
+[  5]   5.00-6.00   sec  2.90 MBytes  24.4 Mbits/sec                  
+[  5]   6.00-7.00   sec  3.36 MBytes  28.2 Mbits/sec                  
+[  5]   7.00-8.00   sec  3.90 MBytes  32.7 Mbits/sec                  
+[  5]   8.00-9.00   sec  4.51 MBytes  37.8 Mbits/sec                  
+[  5]   9.00-10.00  sec  5.21 MBytes  43.7 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.31  sec  31.2 MBytes  25.4 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  27.9 MBytes  23.4 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T11:38:03 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5203
+[  5] local 130.233.224.196 port 47062 connected to 195.148.124.36 port 5203
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   554 MBytes  4.65 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   571 MBytes  4.79 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   574 MBytes  4.81 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   572 MBytes  4.80 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   576 MBytes  4.83 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   576 MBytes  4.83 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   574 MBytes  4.81 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   574 MBytes  4.81 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   578 MBytes  4.84 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   575 MBytes  4.82 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.59 GBytes  4.80 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  5.59 GBytes  4.80 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5207
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 36874 connected to 195.148.124.36 port 5207
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   509 MBytes  4.27 Gbits/sec                  
+[  5]   1.00-2.00   sec   555 MBytes  4.65 Gbits/sec                  
+[  5]   2.00-3.00   sec   555 MBytes  4.65 Gbits/sec                  
+[  5]   3.00-4.00   sec   555 MBytes  4.65 Gbits/sec                  
+[  5]   4.00-5.00   sec   843 MBytes  7.07 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.06 GBytes  9.14 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.06 GBytes  9.13 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.06 GBytes  9.10 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.06 GBytes  9.08 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.06 GBytes  9.07 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  8.25 GBytes  7.08 Gbits/sec   94             sender
+[  5]   0.00-10.00  sec  8.24 GBytes  7.08 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T11:39:23 EEST
+iperf3: error - the server is busy running a test. try again later
+Connecting to host blr1.iperf.comnet-student.eu, port 5210
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 56274 connected to 142.93.213.224 port 5210
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  62.2 KBytes   510 Kbits/sec                  
+[  5]   1.00-2.00   sec  56.6 KBytes   463 Kbits/sec                  
+[  5]   2.00-3.00   sec  65.0 KBytes   533 Kbits/sec                  
+[  5]   3.00-4.00   sec  76.4 KBytes   626 Kbits/sec                  
+[  5]   4.00-5.00   sec  89.1 KBytes   730 Kbits/sec                  
+[  5]   5.00-6.00   sec   102 KBytes   834 Kbits/sec                  
+[  5]   6.00-7.00   sec   160 KBytes  1.31 Mbits/sec                  
+[  5]   7.00-8.00   sec   143 KBytes  1.17 Mbits/sec                  
+[  5]   8.00-9.00   sec   189 KBytes  1.55 Mbits/sec                  
+[  5]   9.00-10.00  sec   310 KBytes  2.54 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.31  sec  1.60 MBytes  1.30 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  1.22 MBytes  1.03 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T12:38:03 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5208
+[  5] local 130.233.224.196 port 55612 connected to 195.148.124.36 port 5208
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   577 MBytes  4.84 Gbits/sec    0   1.84 MBytes       
+[  5]   1.00-2.00   sec   669 MBytes  5.61 Gbits/sec    0   1.84 MBytes       
+[  5]   2.00-3.00   sec   610 MBytes  5.12 Gbits/sec    0   1.84 MBytes       
+[  5]   3.00-4.00   sec   569 MBytes  4.77 Gbits/sec    0   1.84 MBytes       
+[  5]   4.00-5.00   sec   570 MBytes  4.78 Gbits/sec    0   1.84 MBytes       
+[  5]   5.00-6.00   sec   595 MBytes  4.99 Gbits/sec    0   1.84 MBytes       
+[  5]   6.00-7.00   sec   570 MBytes  4.78 Gbits/sec    0   1.84 MBytes       
+[  5]   7.00-8.00   sec   579 MBytes  4.85 Gbits/sec    0   1.84 MBytes       
+[  5]   8.00-9.00   sec   569 MBytes  4.77 Gbits/sec    0   1.84 MBytes       
+[  5]   9.00-10.00  sec   561 MBytes  4.71 Gbits/sec    0   1.84 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.73 GBytes  4.92 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  5.73 GBytes  4.92 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5200
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 44232 connected to 195.148.124.36 port 5200
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.06 GBytes  9.07 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.06 GBytes  9.10 Gbits/sec                  
+[  5]   2.00-3.00   sec  1.08 GBytes  9.26 Gbits/sec                  
+[  5]   3.00-4.00   sec  1.07 GBytes  9.22 Gbits/sec                  
+[  5]   4.00-5.00   sec  1.07 GBytes  9.16 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.26 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.07 GBytes  9.21 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.07 GBytes  9.19 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.08 GBytes  9.24 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.08 GBytes  9.24 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  10.7 GBytes  9.20 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  10.7 GBytes  9.20 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T12:39:23 EEST
+iperf3: error - unable to connect to server: Connection timed out
+iperf3: error - unable to connect to server: Connection timed out
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T13:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5209
+[  5] local 130.233.224.196 port 46706 connected to 195.148.124.36 port 5209
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   551 MBytes  4.62 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   564 MBytes  4.73 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   565 MBytes  4.74 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   562 MBytes  4.72 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   564 MBytes  4.73 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   566 MBytes  4.75 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   561 MBytes  4.71 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   554 MBytes  4.65 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   560 MBytes  4.70 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   566 MBytes  4.75 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.48 GBytes  4.71 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  5.48 GBytes  4.71 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5204
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 37646 connected to 195.148.124.36 port 5204
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   517 MBytes  4.34 Gbits/sec                  
+[  5]   1.00-2.00   sec   588 MBytes  4.93 Gbits/sec                  
+[  5]   2.00-3.00   sec   570 MBytes  4.78 Gbits/sec                  
+[  5]   3.00-4.00   sec   578 MBytes  4.85 Gbits/sec                  
+[  5]   4.00-5.00   sec   738 MBytes  6.19 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.08 GBytes  9.25 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.06 GBytes  9.07 Gbits/sec                  
+[  5]   7.00-8.00   sec  1.05 GBytes  9.00 Gbits/sec                  
+[  5]   8.00-9.00   sec  1.05 GBytes  8.98 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.05 GBytes  9.00 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  8.20 GBytes  7.04 Gbits/sec   50             sender
+[  5]   0.00-10.00  sec  8.20 GBytes  7.04 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T13:39:23 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5206
+[  5] local 130.233.224.196 port 37772 connected to 142.93.213.224 port 5206
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  55.1 KBytes   452 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  80.6 KBytes   660 Kbits/sec    0   25.5 KBytes       
+[  5]   3.00-4.00   sec   255 KBytes  2.09 Mbits/sec    0   42.4 KBytes       
+[  5]   4.00-5.00   sec   191 KBytes  1.56 Mbits/sec    0   67.9 KBytes       
+[  5]   5.00-6.00   sec   445 KBytes  3.65 Mbits/sec    0    110 KBytes       
+[  5]   6.00-7.00   sec   764 KBytes  6.26 Mbits/sec    0    178 KBytes       
+[  5]   7.00-8.00   sec   954 KBytes  7.82 Mbits/sec    0    260 KBytes       
+[  5]   8.00-9.00   sec  1.30 MBytes  10.9 Mbits/sec    0    378 KBytes       
+[  5]   9.00-10.00  sec  1.86 MBytes  15.6 Mbits/sec    0    492 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.95 MBytes  4.99 Mbits/sec    0             sender
+[  5]   0.00-10.32  sec  4.14 MBytes  3.37 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5209
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 49950 connected to 142.93.213.224 port 5209
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  90.5 KBytes   741 Kbits/sec                  
+[  5]   1.00-2.00   sec   732 KBytes  5.99 Mbits/sec                  
+[  5]   2.00-3.00   sec  4.05 MBytes  34.0 Mbits/sec                  
+[  5]   3.00-4.00   sec  5.49 MBytes  46.0 Mbits/sec                  
+[  5]   4.00-5.00   sec  6.35 MBytes  53.3 Mbits/sec                  
+[  5]   5.00-6.00   sec  7.35 MBytes  61.6 Mbits/sec                  
+[  5]   6.00-7.00   sec  7.51 MBytes  63.0 Mbits/sec                  
+[  5]   7.00-8.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.33  sec  56.5 MBytes  45.9 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  54.0 MBytes  45.3 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T14:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5204
+[  5] local 130.233.224.196 port 41292 connected to 195.148.124.36 port 5204
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   670 MBytes  5.62 Gbits/sec    0   1.93 MBytes       
+[  5]   1.00-2.00   sec   659 MBytes  5.53 Gbits/sec    0   1.93 MBytes       
+[  5]   2.00-3.00   sec   615 MBytes  5.16 Gbits/sec    0   1.93 MBytes       
+[  5]   3.00-4.00   sec   295 MBytes  2.47 Gbits/sec  803    189 KBytes       
+[  5]   4.00-5.00   sec   244 MBytes  2.04 Gbits/sec  449    314 KBytes       
+[  5]   5.00-6.00   sec   240 MBytes  2.01 Gbits/sec  406    188 KBytes       
+[  5]   6.00-7.00   sec   324 MBytes  2.72 Gbits/sec  237    645 KBytes       
+[  5]   7.00-8.00   sec   685 MBytes  5.75 Gbits/sec    0   1.14 MBytes       
+[  5]   8.00-9.00   sec   614 MBytes  5.15 Gbits/sec    0   1.49 MBytes       
+[  5]   9.00-10.00  sec   665 MBytes  5.58 Gbits/sec    0   1.78 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  4.89 GBytes  4.20 Gbits/sec  1895             sender
+[  5]   0.00-10.00  sec  4.89 GBytes  4.20 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5207
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 46120 connected to 195.148.124.36 port 5207
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   541 MBytes  4.54 Gbits/sec                  
+[  5]   1.00-2.00   sec   550 MBytes  4.61 Gbits/sec                  
+[  5]   2.00-3.00   sec   552 MBytes  4.63 Gbits/sec                  
+[  5]   3.00-4.00   sec   553 MBytes  4.64 Gbits/sec                  
+[  5]   4.00-5.00   sec   617 MBytes  5.18 Gbits/sec                  
+[  5]   5.00-6.00   sec  1.07 GBytes  9.20 Gbits/sec                  
+[  5]   6.00-7.00   sec  1.07 GBytes  9.22 Gbits/sec                  
+[  5]   7.00-8.00   sec  1004 MBytes  8.43 Gbits/sec                  
+[  5]   8.00-9.00   sec   989 MBytes  8.30 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.01 GBytes  8.67 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  7.85 GBytes  6.74 Gbits/sec   50             sender
+[  5]   0.00-10.00  sec  7.85 GBytes  6.74 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T14:39:22 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5210
+[  5] local 130.233.224.196 port 37306 connected to 142.93.213.224 port 5210
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  62.2 KBytes   510 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  87.7 KBytes   718 Kbits/sec    0   24.0 KBytes       
+[  5]   3.00-4.00   sec   191 KBytes  1.56 Mbits/sec    0   39.6 KBytes       
+[  5]   4.00-5.00   sec   191 KBytes  1.56 Mbits/sec    0   65.0 KBytes       
+[  5]   5.00-6.00   sec   382 KBytes  3.13 Mbits/sec    0    105 KBytes       
+[  5]   6.00-7.00   sec   636 KBytes  5.21 Mbits/sec    0    164 KBytes       
+[  5]   7.00-8.00   sec   891 KBytes  7.30 Mbits/sec    0    245 KBytes       
+[  5]   8.00-9.00   sec  1.43 MBytes  12.0 Mbits/sec    0    349 KBytes       
+[  5]   9.00-10.00  sec  1.80 MBytes  15.1 Mbits/sec    0    477 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.71 MBytes  4.79 Mbits/sec    0             sender
+[  5]   0.00-10.32  sec  3.92 MBytes  3.19 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5208
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 33576 connected to 142.93.213.224 port 5208
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   195 KBytes  1.60 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.43 MBytes  12.0 Mbits/sec                  
+[  5]   2.00-3.00   sec  5.69 MBytes  47.7 Mbits/sec                  
+[  5]   3.00-4.00   sec  6.86 MBytes  57.5 Mbits/sec                  
+[  5]   4.00-5.00   sec  7.63 MBytes  64.0 Mbits/sec                  
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   6.00-7.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   7.00-8.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.32  sec  61.8 MBytes  50.2 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  59.3 MBytes  49.7 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T15:38:03 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5207
+[  5] local 130.233.224.196 port 49876 connected to 195.148.124.36 port 5207
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   704 MBytes  5.91 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   689 MBytes  5.78 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   708 MBytes  5.93 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   711 MBytes  5.97 Gbits/sec  326   1.25 MBytes       
+[  5]   4.00-5.00   sec   714 MBytes  5.99 Gbits/sec    0   1.61 MBytes       
+[  5]   5.00-6.00   sec   698 MBytes  5.85 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   652 MBytes  5.47 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   678 MBytes  5.68 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   746 MBytes  6.26 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   761 MBytes  6.39 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.89 GBytes  5.92 Gbits/sec  326             sender
+[  5]   0.00-10.00  sec  6.89 GBytes  5.92 Gbits/sec                  receiver
+
+iperf Done.
+Connecting to host ok1.iperf.comnet-student.eu, port 5208
+Reverse mode, remote host ok1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 37800 connected to 195.148.124.36 port 5208
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.01 GBytes  8.68 Gbits/sec                  
+[  5]   1.00-2.00   sec  1.06 GBytes  9.07 Gbits/sec                  
+[  5]   2.00-3.00   sec  1.06 GBytes  9.11 Gbits/sec                  
+[  5]   3.00-4.00   sec   990 MBytes  8.30 Gbits/sec                  
+[  5]   4.00-5.00   sec   554 MBytes  4.65 Gbits/sec                  
+[  5]   5.00-6.00   sec   555 MBytes  4.66 Gbits/sec                  
+[  5]   6.00-7.00   sec   558 MBytes  4.68 Gbits/sec                  
+[  5]   7.00-8.00   sec   554 MBytes  4.65 Gbits/sec                  
+[  5]   8.00-9.00   sec   669 MBytes  5.61 Gbits/sec                  
+[  5]   9.00-10.00  sec  1.06 GBytes  9.12 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  7.98 GBytes  6.86 Gbits/sec   97             sender
+[  5]   0.00-10.00  sec  7.98 GBytes  6.85 Gbits/sec                  receiver
+
+iperf Done.
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T15:39:23 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5202
+[  5] local 130.233.224.196 port 43134 connected to 142.93.213.224 port 5202
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   105 KBytes   857 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  91.9 KBytes   753 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  73.5 KBytes   603 Kbits/sec    0   22.6 KBytes       
+[  5]   3.00-4.00   sec   127 KBytes  1.04 Mbits/sec    0   39.6 KBytes       
+[  5]   4.00-5.00   sec   318 KBytes  2.61 Mbits/sec    0   63.6 KBytes       
+[  5]   5.00-6.00   sec   509 KBytes  4.17 Mbits/sec    0    106 KBytes       
+[  5]   6.00-7.00   sec   318 KBytes  2.61 Mbits/sec    0    161 KBytes       
+[  5]   7.00-8.00   sec  1.43 MBytes  12.0 Mbits/sec    1    211 KBytes       
+[  5]   8.00-9.00   sec   573 KBytes  4.69 Mbits/sec    0    214 KBytes       
+[  5]   9.00-10.00  sec   573 KBytes  4.69 Mbits/sec    0    236 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  4.05 MBytes  3.40 Mbits/sec    1             sender
+[  5]   0.00-10.32  sec  3.12 MBytes  2.54 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5202
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 43158 connected to 142.93.213.224 port 5202
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   195 KBytes  1.60 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.43 MBytes  12.0 Mbits/sec                  
+[  5]   2.00-3.00   sec  5.46 MBytes  45.8 Mbits/sec                  
+[  5]   3.00-4.00   sec  5.74 MBytes  48.2 Mbits/sec                  
+[  5]   4.00-5.00   sec  5.75 MBytes  48.3 Mbits/sec                  
+[  5]   5.00-6.00   sec  5.77 MBytes  48.4 Mbits/sec                  
+[  5]   6.00-7.00   sec  5.78 MBytes  48.5 Mbits/sec                  
+[  5]   7.00-8.00   sec  5.79 MBytes  48.6 Mbits/sec                  
+[  5]   8.00-9.00   sec  5.80 MBytes  48.7 Mbits/sec                  
+[  5]   9.00-10.00  sec  5.82 MBytes  48.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.33  sec  49.8 MBytes  40.4 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  47.5 MBytes  39.9 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T16:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5210
+[  5] local 130.233.224.196 port 37444 connected to 195.148.124.36 port 5210
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   586 MBytes  4.92 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   568 MBytes  4.76 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   564 MBytes  4.73 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   562 MBytes  4.72 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   558 MBytes  4.68 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   559 MBytes  4.69 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   559 MBytes  4.69 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   554 MBytes  4.65 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   552 MBytes  4.63 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   559 MBytes  4.69 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.49 GBytes  4.71 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  5.49 GBytes  4.71 Gbits/sec                  receiver
+
+iperf Done.
+iperf3: error - the server is busy running a test. try again later
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T16:39:12 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5210
+[  5] local 130.233.224.196 port 45660 connected to 142.93.213.224 port 5210
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   15.6 KBytes       
+[  5]   1.00-2.00   sec  62.2 KBytes   510 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  87.7 KBytes   718 Kbits/sec    0   24.0 KBytes       
+[  5]   3.00-4.00   sec   191 KBytes  1.56 Mbits/sec    0   39.6 KBytes       
+[  5]   4.00-5.00   sec   191 KBytes  1.56 Mbits/sec    0   66.5 KBytes       
+[  5]   5.00-6.00   sec   573 KBytes  4.69 Mbits/sec    0    107 KBytes       
+[  5]   6.00-7.00   sec   382 KBytes  3.13 Mbits/sec    0    168 KBytes       
+[  5]   7.00-8.00   sec  1.06 MBytes  8.86 Mbits/sec    0    246 KBytes       
+[  5]   8.00-9.00   sec  1.30 MBytes  10.9 Mbits/sec    0    358 KBytes       
+[  5]   9.00-10.00  sec  1.80 MBytes  15.1 Mbits/sec    0    451 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.71 MBytes  4.79 Mbits/sec    0             sender
+[  5]   0.00-10.31  sec  3.94 MBytes  3.21 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5202
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 47702 connected to 142.93.213.224 port 5202
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   195 KBytes  1.60 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.43 MBytes  12.0 Mbits/sec                  
+[  5]   2.00-3.00   sec  6.19 MBytes  52.0 Mbits/sec                  
+[  5]   3.00-4.00   sec  6.85 MBytes  57.5 Mbits/sec                  
+[  5]   4.00-5.00   sec  6.86 MBytes  57.6 Mbits/sec                  
+[  5]   5.00-6.00   sec  6.87 MBytes  57.7 Mbits/sec                  
+[  5]   6.00-7.00   sec  6.89 MBytes  57.8 Mbits/sec                  
+[  5]   7.00-8.00   sec  6.90 MBytes  57.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  6.91 MBytes  58.0 Mbits/sec                  
+[  5]   9.00-10.00  sec  6.93 MBytes  58.1 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.32  sec  59.0 MBytes  48.0 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  56.0 MBytes  47.0 Mbits/sec                  receiver
+
+iperf Done.
+iperf server 1: ok1.iperf.comnet-student.eu
+2021-10-20T17:38:02 EEST
+Connecting to host ok1.iperf.comnet-student.eu, port 5209
+[  5] local 130.233.224.196 port 33732 connected to 195.148.124.36 port 5209
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   639 MBytes  5.36 Gbits/sec    0   1.83 MBytes       
+[  5]   1.00-2.00   sec   604 MBytes  5.06 Gbits/sec    0   1.83 MBytes       
+[  5]   2.00-3.00   sec   625 MBytes  5.24 Gbits/sec    0   1.83 MBytes       
+[  5]   3.00-4.00   sec   670 MBytes  5.62 Gbits/sec    0   1.83 MBytes       
+[  5]   4.00-5.00   sec   612 MBytes  5.14 Gbits/sec    0   1.83 MBytes       
+[  5]   5.00-6.00   sec   651 MBytes  5.46 Gbits/sec    0   1.83 MBytes       
+[  5]   6.00-7.00   sec   671 MBytes  5.63 Gbits/sec    0   1.83 MBytes       
+[  5]   7.00-8.00   sec   634 MBytes  5.32 Gbits/sec    0   1.83 MBytes       
+[  5]   8.00-9.00   sec   631 MBytes  5.30 Gbits/sec    0   1.83 MBytes       
+[  5]   9.00-10.00  sec   681 MBytes  5.71 Gbits/sec    0   1.83 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  6.27 GBytes  5.38 Gbits/sec    0             sender
+[  5]   0.00-10.00  sec  6.27 GBytes  5.38 Gbits/sec                  receiver
+
+iperf Done.
+iperf3: error - the server is busy running a test. try again later
+iperf server 2: blr1.iperf.comnet-student.eu
+2021-10-20T17:39:12 EEST
+Connecting to host blr1.iperf.comnet-student.eu, port 5210
+[  5] local 130.233.224.196 port 48852 connected to 142.93.213.224 port 5210
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   102 KBytes   833 Kbits/sec    0   14.1 KBytes       
+[  5]   1.00-2.00   sec  56.6 KBytes   464 Kbits/sec    0   17.0 KBytes       
+[  5]   2.00-3.00   sec  90.5 KBytes   741 Kbits/sec    0   24.0 KBytes       
+[  5]   3.00-4.00   sec   191 KBytes  1.56 Mbits/sec    0   39.6 KBytes       
+[  5]   4.00-5.00   sec   191 KBytes  1.56 Mbits/sec    0   66.5 KBytes       
+[  5]   5.00-6.00   sec   382 KBytes  3.13 Mbits/sec    0    112 KBytes       
+[  5]   6.00-7.00   sec   636 KBytes  5.21 Mbits/sec    0    171 KBytes       
+[  5]   7.00-8.00   sec   954 KBytes  7.82 Mbits/sec    0    250 KBytes       
+[  5]   8.00-9.00   sec  1.30 MBytes  11.0 Mbits/sec    0    362 KBytes       
+[  5]   9.00-10.00  sec  1.86 MBytes  15.6 Mbits/sec    0    481 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  5.71 MBytes  4.79 Mbits/sec    0             sender
+[  5]   0.00-10.35  sec  4.00 MBytes  3.24 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host blr1.iperf.comnet-student.eu, port 5205
+Reverse mode, remote host blr1.iperf.comnet-student.eu is sending
+[  5] local 130.233.224.196 port 39964 connected to 142.93.213.224 port 5205
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   178 KBytes  1.46 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.31 MBytes  11.0 Mbits/sec                  
+[  5]   2.00-3.00   sec  5.90 MBytes  49.5 Mbits/sec                  
+[  5]   3.00-4.00   sec  7.45 MBytes  62.5 Mbits/sec                  
+[  5]   4.00-5.00   sec  8.26 MBytes  69.3 Mbits/sec                  
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   6.00-7.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   7.00-8.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.33  sec  63.1 MBytes  51.2 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  60.6 MBytes  50.8 Mbits/sec                  receiver
+
+iperf Done.

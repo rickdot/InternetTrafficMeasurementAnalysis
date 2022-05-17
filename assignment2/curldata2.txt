@@ -1,0 +1,169 @@
+
+Yanghang Zeng
+2021-10-19T18:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+386073637.000, 524288000
+
+Yanghang Zeng
+2021-10-19T19:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+574877192.000, 524288000
+
+Yanghang Zeng
+2021-10-19T20:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+322837438.000, 524288000
+
+Yanghang Zeng
+2021-10-19T21:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+548418410.000, 524288000
+
+Yanghang Zeng
+2021-10-19T22:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+375295633.000, 524288000
+
+Yanghang Zeng
+2021-10-19T23:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+316981862.000, 524288000
+
+Yanghang Zeng
+2021-10-20T00:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+417426751.000, 524288000
+
+Yanghang Zeng
+2021-10-20T01:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+450032618.000, 524288000
+
+Yanghang Zeng
+2021-10-20T02:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+385789551.000, 524288000
+
+Yanghang Zeng
+2021-10-20T03:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+557160467.000, 524288000
+
+Yanghang Zeng
+2021-10-20T04:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+505094412.000, 524288000
+
+Yanghang Zeng
+2021-10-20T05:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+561336188.000, 524288000
+
+Yanghang Zeng
+2021-10-20T06:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+520126984.000, 524288000
+
+Yanghang Zeng
+2021-10-20T07:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+552463645.000, 524288000
+
+Yanghang Zeng
+2021-10-20T08:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+505581485.000, 524288000
+
+Yanghang Zeng
+2021-10-20T09:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+390676602.000, 524288000
+
+Yanghang Zeng
+2021-10-20T10:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+470213452.000, 524288000
+
+Yanghang Zeng
+2021-10-20T11:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+271792638.000, 524288000
+
+Yanghang Zeng
+2021-10-20T12:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+419095123.000, 524288000
+
+Yanghang Zeng
+2021-10-20T13:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+294213243.000, 524288000
+
+Yanghang Zeng
+2021-10-20T14:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+187245714.000, 524288000
+
+Yanghang Zeng
+2021-10-20T15:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+386358142.000, 524288000
+
+Yanghang Zeng
+2021-10-20T16:32:03 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+327066749.000, 524288000
+
+Yanghang Zeng
+2021-10-20T17:21:02 EEST
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+speed_download
+432938067.000, 524288000
+

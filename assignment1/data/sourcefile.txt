@@ -1,0 +1,1944 @@
+Yanghang
+Sun  3 Oct 15:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.52 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.19 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.10 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.71 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19037ms
+rtt min/avg/max/mdev = 1.710/3.946/8.189/1.103 ms
+Yanghang
+Sun  3 Oct 15:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=1.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.02 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.96 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.14 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.34 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 1.797/3.786/4.558/0.643 ms
+Yanghang
+Sun  3 Oct 16:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=2.31 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=2.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.15 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=2.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.46 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.50 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=4.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.35 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.07 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.06 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 2.046/3.571/4.349/0.718 ms
+Yanghang
+Sun  3 Oct 16:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.46 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.19 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.36 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.79 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19036ms
+rtt min/avg/max/mdev = 1.866/3.943/4.792/0.605 ms
+Yanghang
+Sun  3 Oct 16:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.44 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=4.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.23 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.15 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.17 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.36 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19036ms
+rtt min/avg/max/mdev = 2.483/4.098/4.599/0.493 ms
+Yanghang
+Sun  3 Oct 16:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.58 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.35 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.57 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19034ms
+rtt min/avg/max/mdev = 2.776/4.347/5.134/0.523 ms
+Yanghang
+Sun  3 Oct 16:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=8.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=7.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.44 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.58 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=4.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.12 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=5.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.72 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19036ms
+rtt min/avg/max/mdev = 2.557/4.690/8.418/1.315 ms
+Yanghang
+Sun  3 Oct 16:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=4.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.07 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=4.14 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=5.09 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.36 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.77 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19032ms
+rtt min/avg/max/mdev = 3.772/4.183/5.087/0.280 ms
+Yanghang
+Sun  3 Oct 17:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=1.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.20 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=6.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.46 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=10.3 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=9.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=10.6 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=7.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=10.5 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=15.3 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=18.3 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=12.7 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=8.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=11.6 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=7.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=7.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=12.5 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=9.73 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 1.671/8.974/18.265/3.930 ms
+Yanghang
+Sun  3 Oct 17:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=5.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.14 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=21.6 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=5.36 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=4.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=5.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=5.52 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=5.11 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=6.35 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=5.50 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=5.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=5.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=5.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=5.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=5.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=5.38 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19036ms
+rtt min/avg/max/mdev = 3.967/6.128/21.597/3.577 ms
+Yanghang
+Sun  3 Oct 17:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.54 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=5.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=5.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=5.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=5.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=5.20 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=5.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=5.52 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=5.41 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=5.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=5.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=5.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=5.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=5.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=5.55 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19036ms
+rtt min/avg/max/mdev = 3.542/5.381/5.903/0.495 ms
+Yanghang
+Sun  3 Oct 17:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.10 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=1.96 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.94 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 1.959/3.635/4.285/0.555 ms
+Yanghang
+Sun  3 Oct 17:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.36 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.83 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 2.224/3.825/4.357/0.385 ms
+Yanghang
+Sun  3 Oct 17:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=5.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.96 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.18 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.89 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19034ms
+rtt min/avg/max/mdev = 1.978/3.904/5.055/0.556 ms
+Yanghang
+Sun  3 Oct 18:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.54 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.19 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=9.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=6.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=6.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=6.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=6.59 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=6.54 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=6.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=6.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=6.44 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=6.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=6.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=6.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=6.23 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=5.85 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19034ms
+rtt min/avg/max/mdev = 1.832/6.075/9.898/1.559 ms
+Yanghang
+Sun  3 Oct 18:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=4.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=6.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=5.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=5.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=6.35 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=6.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=6.35 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=6.41 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=6.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=6.39 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=6.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.41 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=5.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=5.24 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19036ms
+rtt min/avg/max/mdev = 3.902/5.546/6.454/0.833 ms
+Yanghang
+Sun  3 Oct 18:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.17 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=1.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=1.92 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19037ms
+rtt min/avg/max/mdev = 1.841/3.597/4.658/0.626 ms
+Yanghang
+Sun  3 Oct 18:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.39 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=4.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=5.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=5.41 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=5.20 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=5.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=5.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.39 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=5.02 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 2.681/4.578/5.424/0.667 ms
+Yanghang
+Sun  3 Oct 18:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.12 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.17 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=5.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=5.21 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=4.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.33 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.62 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 2.506/4.094/5.214/0.594 ms
+Yanghang
+Sun  3 Oct 18:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=4.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.02 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.23 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.18 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 3.692/4.007/4.404/0.201 ms
+Yanghang
+Sun  3 Oct 19:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=5.96 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=6.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=5.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=5.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=6.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=7.20 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=7.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=6.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=5.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=7.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=8.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=7.07 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=7.44 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=8.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=6.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=6.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=6.25 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 1.954/6.416/8.926/1.441 ms
+Yanghang
+Sun  3 Oct 19:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=4.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=6.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=6.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.50 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=6.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=6.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=6.37 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=6.41 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=6.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=6.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=6.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=6.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=6.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=6.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=6.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=6.18 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=6.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=6.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=6.38 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19036ms
+rtt min/avg/max/mdev = 4.478/6.316/6.783/0.451 ms
+Yanghang
+Sun  3 Oct 19:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.23 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.20 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.21 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.00 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 2.318/3.925/4.433/0.428 ms
+Yanghang
+Sun  3 Oct 19:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.61 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.70 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19037ms
+rtt min/avg/max/mdev = 1.810/3.681/4.729/0.488 ms
+Yanghang
+Sun  3 Oct 19:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.20 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.18 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=6.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.61 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19038ms
+rtt min/avg/max/mdev = 2.200/3.825/6.272/0.682 ms
+Yanghang
+Sun  3 Oct 19:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.31 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.83 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 1.931/3.823/4.638/0.475 ms
+Yanghang
+Sun  3 Oct 20:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=6.10 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=6.39 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=7.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=7.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=8.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=8.41 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=9.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=9.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=7.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=8.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=8.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=7.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=8.58 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=9.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=8.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=8.58 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 1.907/7.734/9.284/1.596 ms
+Yanghang
+Sun  3 Oct 20:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=6.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=8.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=8.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=8.31 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=8.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=5.61 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=7.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=8.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=7.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=7.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=7.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=7.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=7.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=8.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=8.02 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=7.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=7.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=7.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=7.78 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 5.613/7.824/8.783/0.679 ms
+Yanghang
+Sun  3 Oct 20:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.18 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=4.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.52 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.58 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.71 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19037ms
+rtt min/avg/max/mdev = 2.620/4.020/4.909/0.565 ms
+Yanghang
+Sun  3 Oct 20:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.15 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19038ms
+rtt min/avg/max/mdev = 1.727/3.641/4.147/0.458 ms
+Yanghang
+Sun  3 Oct 20:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.42 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19036ms
+rtt min/avg/max/mdev = 2.550/3.800/4.662/0.384 ms
+Yanghang
+Sun  3 Oct 20:50:02 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.96 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.47 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19034ms
+rtt min/avg/max/mdev = 2.258/3.798/4.423/0.412 ms
+Yanghang
+Sun  3 Oct 21:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=4.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=10.4 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=11.3 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=11.4 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=9.37 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=11.2 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=14.0 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=10.5 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=10.0 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=12.1 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=11.1 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=15.1 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=16.6 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=12.0 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=15.9 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=17.6 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=15.1 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=12.4 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=13.0 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=7.92 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 4.239/12.072/17.617/3.058 ms
+Yanghang
+Sun  3 Oct 21:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=8.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=8.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=8.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=8.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=8.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=7.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=7.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=8.11 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=7.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=7.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=7.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=7.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=7.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=7.50 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=6.37 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=7.09 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=7.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=7.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=7.79 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19032ms
+rtt min/avg/max/mdev = 6.365/7.754/8.156/0.417 ms
+Yanghang
+Sun  3 Oct 21:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=4.37 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=5.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=6.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=5.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=5.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=5.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=5.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=5.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=5.58 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=6.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=5.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=5.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=5.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=23.0 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=5.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=5.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=6.00 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19038ms
+rtt min/avg/max/mdev = 4.374/6.405/23.005/3.826 ms
+Yanghang
+Sun  3 Oct 21:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.52 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.72 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19038ms
+rtt min/avg/max/mdev = 1.884/3.875/5.628/0.658 ms
+Yanghang
+Sun  3 Oct 21:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.77 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19037ms
+rtt min/avg/max/mdev = 1.897/3.704/4.603/0.466 ms
+Yanghang
+Sun  3 Oct 21:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.50 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19038ms
+rtt min/avg/max/mdev = 1.909/3.758/4.552/0.486 ms
+Yanghang
+Sun  3 Oct 22:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=7.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=11.4 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=9.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=8.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=9.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=10.3 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=7.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=10.5 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.20 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=9.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=8.61 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=9.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=11.3 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=9.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=11.0 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=9.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=8.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=10.3 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=9.37 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19033ms
+rtt min/avg/max/mdev = 2.679/9.200/11.442/1.852 ms
+Yanghang
+Sun  3 Oct 22:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.19 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=5.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=5.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=5.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=5.37 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=5.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=5.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=5.07 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=5.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=5.33 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=5.10 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=5.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=5.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=5.71 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 3.490/5.207/5.708/0.462 ms
+Yanghang
+Sun  3 Oct 22:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=2.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.19 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.06 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 2.683/4.087/4.810/0.517 ms
+Yanghang
+Sun  3 Oct 22:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.17 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.33 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=4.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.31 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=4.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.67 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 3.170/4.400/6.000/0.646 ms
+Yanghang
+Sun  3 Oct 22:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=4.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.96 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.14 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=5.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.41 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=5.18 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=4.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=4.61 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=5.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.65 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 3.548/4.625/5.175/0.388 ms
+Yanghang
+Sun  3 Oct 22:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.14 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.17 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.15 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.95 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19033ms
+rtt min/avg/max/mdev = 2.135/3.792/4.166/0.422 ms
+Yanghang
+Sun  3 Oct 23:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=8.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=6.11 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=8.10 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=6.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=12.2 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=8.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=12.9 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=9.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=10.6 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=11.9 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=10.8 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=7.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=11.1 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=16.2 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=8.58 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19032ms
+rtt min/avg/max/mdev = 1.949/8.830/16.237/3.143 ms
+Yanghang
+Sun  3 Oct 23:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=10.9 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=12.2 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=6.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.44 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=5.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=5.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=6.11 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=5.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=5.15 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=5.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=6.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=6.09 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=5.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=5.17 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 3.664/6.053/12.183/2.011 ms
+Yanghang
+Sun  3 Oct 23:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.37 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=8.41 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.66 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19039ms
+rtt min/avg/max/mdev = 1.969/3.840/8.414/1.122 ms
+Yanghang
+Sun  3 Oct 23:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.54 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.76 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19037ms
+rtt min/avg/max/mdev = 1.995/3.739/5.050/0.506 ms
+Yanghang
+Sun  3 Oct 23:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.56 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 1.872/3.631/3.840/0.415 ms
+Yanghang
+Sun  3 Oct 23:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=14.4 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=11.7 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=5.18 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=18.0 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.68 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 2.280/5.494/17.995/4.022 ms
+Yanghang
+Mon  4 Oct 00:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=5.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=6.23 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.50 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=7.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=9.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=8.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=8.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=8.37 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=8.41 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=9.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=8.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=8.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=8.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=8.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=8.52 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=8.66 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19037ms
+rtt min/avg/max/mdev = 1.526/7.583/9.645/1.912 ms
+Yanghang
+Mon  4 Oct 00:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=6.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=8.09 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=7.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=7.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=11.2 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=14.5 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=11.6 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=8.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.31 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=8.21 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=8.09 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=7.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=13.6 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=8.18 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=8.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=8.23 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=7.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=8.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=8.14 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19032ms
+rtt min/avg/max/mdev = 6.258/8.901/14.521/2.053 ms
+Yanghang
+Mon  4 Oct 00:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=5.54 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=6.10 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=5.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=4.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.74 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.79 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 3.653/4.180/6.102/0.723 ms
+Yanghang
+Mon  4 Oct 00:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.80 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19034ms
+rtt min/avg/max/mdev = 3.258/3.913/4.402/0.263 ms
+Yanghang
+Mon  4 Oct 00:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.46 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.67 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.68 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19037ms
+rtt min/avg/max/mdev = 1.673/3.648/4.483/0.496 ms
+Yanghang
+Mon  4 Oct 00:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.59 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=1.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=4.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=2.11 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.92 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 1.945/3.612/4.589/0.707 ms
+Yanghang
+Mon  4 Oct 01:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=5.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.42 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=6.59 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=7.26 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=8.12 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=7.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=8.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=8.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=8.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=9.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=8.33 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=8.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=29.3 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=8.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=8.59 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=8.33 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 1.932/8.330/29.279/5.167 ms
+Yanghang
+Mon  4 Oct 01:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=5.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=8.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=7.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=7.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=7.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=7.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=7.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=7.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=7.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=6.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=6.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=7.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=7.46 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=7.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=7.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=7.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=7.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=9.79 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 5.804/7.587/9.786/0.733 ms
+Yanghang
+Mon  4 Oct 01:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=4.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.17 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=5.61 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=6.15 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=6.48 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=6.10 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=7.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=6.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=5.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=6.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=5.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=6.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=6.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=6.14 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=7.35 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=6.81 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 3.827/5.981/7.512/0.894 ms
+Yanghang
+Mon  4 Oct 01:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.71 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.54 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.75 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.12 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=1.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=4.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.78 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19033ms
+rtt min/avg/max/mdev = 1.726/3.680/4.378/0.649 ms
+Yanghang
+Mon  4 Oct 01:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=23.0 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=4.07 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=2.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=1.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.19 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.02 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=4.11 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 1.831/4.709/23.023/4.249 ms
+Yanghang
+Mon  4 Oct 01:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.96 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.82 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=1.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.15 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.12 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=2.09 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.02 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.07 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.73 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 1.854/3.613/4.150/0.672 ms
+Yanghang
+Mon  4 Oct 02:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=6.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=7.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.36 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=7.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=8.27 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=8.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=8.32 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=8.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=8.43 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=8.52 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=8.39 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=8.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=8.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=8.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=8.66 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=8.49 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19033ms
+rtt min/avg/max/mdev = 3.836/7.658/8.664/1.231 ms
+Yanghang
+Mon  4 Oct 02:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=8.93 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=7.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=8.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=7.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=7.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=8.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=8.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=8.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=7.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=7.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=8.07 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=8.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=8.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=23.2 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=8.07 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=8.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=8.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=7.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=8.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=8.03 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 7.398/8.794/23.205/3.315 ms
+Yanghang
+Mon  4 Oct 02:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.60 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=6.14 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.15 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.10 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=5.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=5.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=6.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=5.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=5.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=6.40 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=5.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=5.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=6.14 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=5.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.54 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=6.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=6.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=5.79 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 3.856/5.697/6.511/0.580 ms
+Yanghang
+Mon  4 Oct 02:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.72 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.61 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.11 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.68 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=1.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=2.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.65 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.93 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19032ms
+rtt min/avg/max/mdev = 1.811/3.635/5.160/0.822 ms
+Yanghang
+Mon  4 Oct 02:40:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.92 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=21.6 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=27.9 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=1.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=2.28 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.09 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=4.02 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.84 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=4.17 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=3.80 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.80 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 1.879/5.747/27.882/6.447 ms
+Yanghang
+Mon  4 Oct 02:50:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=2.23 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.79 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=4.07 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=4.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=4.45 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=4.21 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.89 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=4.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=4.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=4.14 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=4.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.94 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 2.233/3.934/4.446/0.420 ms
+Yanghang
+Mon  4 Oct 03:00:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=5.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=6.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=6.95 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=7.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=7.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=8.35 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=8.18 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=8.23 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=8.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=8.24 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=8.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=8.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=8.51 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=8.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=8.52 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=8.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=8.44 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19034ms
+rtt min/avg/max/mdev = 1.638/7.587/8.870/1.618 ms
+Yanghang
+Mon  4 Oct 03:10:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=6.11 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=7.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=8.16 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=7.88 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=8.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=7.98 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=8.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=8.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=8.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=7.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=8.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=7.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=7.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=7.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=7.91 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=7.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=8.13 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=8.22 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=5.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=6.66 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 5.336/7.706/8.251/0.742 ms
+Yanghang
+Mon  4 Oct 03:20:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=6.06 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=5.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=6.05 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=5.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.86 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=5.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=5.49 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=5.81 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=4.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=4.99 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=5.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=5.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=5.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=5.55 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=5.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=5.09 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=5.54 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=5.18 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=5.03 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19033ms
+rtt min/avg/max/mdev = 3.769/5.342/6.056/0.621 ms
+Yanghang
+Mon  4 Oct 03:30:01 EEST 2021
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=60 time=1.97 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=60 time=3.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=60 time=4.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=6 ttl=60 time=3.77 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=7 ttl=60 time=3.78 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=8 ttl=60 time=3.50 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=9 ttl=60 time=3.63 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=10 ttl=60 time=3.62 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=11 ttl=60 time=3.73 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=12 ttl=60 time=3.70 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=13 ttl=60 time=3.96 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=14 ttl=60 time=3.56 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=15 ttl=60 time=3.69 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=16 ttl=60 time=3.90 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=17 ttl=60 time=3.87 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=18 ttl=60 time=3.64 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=19 ttl=60 time=4.57 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=20 ttl=60 time=3.80 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19033ms
+rtt min/avg/max/mdev = 1.971/3.688/4.574/0.453 ms

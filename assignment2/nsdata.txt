@@ -1,0 +1,648 @@
+name server 1: d.nic.fr
+2021-10-16T01:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634338562.642631] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.7 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.695/91.695/91.695/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T01:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634338562.783817] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.9 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.884/26.884/26.884/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T01:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634338562.831371] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.632 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.632/0.632/0.632/0.000 ms
+;; Query time: 4 msec
+name server 1: d.nic.fr
+2021-10-16T02:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634342163.085040] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.7 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.716/91.716/91.716/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T02:56:03 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634342163.225950] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.7 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.692/26.692/26.692/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T02:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634342163.275524] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.651 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.651/0.651/0.651/0.000 ms
+;; Query time: 4 msec
+name server 1: d.nic.fr
+2021-10-16T03:56:03 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634345763.488235] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.6 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.635/91.635/91.635/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T03:56:03 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634345763.623164] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.7 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.698/26.698/26.698/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T03:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634345763.666696] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.926 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.926/0.926/0.926/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T04:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634349362.756663] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.8 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.789/91.789/91.789/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T04:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634349362.899517] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=27.0 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.991/26.991/26.991/0.000 ms
+;; Query time: 24 msec
+name server 3: f.ext.nic.fr
+2021-10-16T04:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634349362.949073] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=1.08 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.076/1.076/1.076/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T05:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634352962.314250] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.7 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.693/91.693/91.693/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T05:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634352962.451433] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=28.2 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.187/28.187/28.187/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T05:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634352962.495303] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=2.13 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.130/2.130/2.130/0.000 ms
+;; Query time: 4 msec
+name server 1: d.nic.fr
+2021-10-16T06:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634356562.959825] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.8 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.772/91.772/91.772/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T06:56:03 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634356563.094061] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.8 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.750/26.750/26.750/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T06:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634356563.139006] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.927 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.927/0.927/0.927/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T07:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634360162.225245] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.8 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.839/91.839/91.839/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T07:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634360162.361835] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.7 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.722/26.722/26.722/0.000 ms
+;; Query time: 24 msec
+name server 3: f.ext.nic.fr
+2021-10-16T07:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634360162.406602] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.894 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.894/0.894/0.894/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T08:56:05 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634363765.273296] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=92.2 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 92.226/92.226/92.226/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T08:56:05 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634363765.410720] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.8 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.837/26.837/26.837/0.000 ms
+;; Query time: 24 msec
+name server 3: f.ext.nic.fr
+2021-10-16T08:56:05 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634363765.457833] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.960 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.960/0.960/0.960/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T09:56:03 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634367363.127772] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.8 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.820/91.820/91.820/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T09:56:03 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634367363.262998] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.7 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.682/26.682/26.682/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T09:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634367363.306072] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.651 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.651/0.651/0.651/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T10:56:03 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634370963.138139] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.8 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.835/91.835/91.835/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T10:56:03 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634370963.273101] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.9 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.860/26.860/26.860/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T10:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634370963.317702] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.729 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.729/0.729/0.729/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T11:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634374562.954515] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.8 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.806/91.806/91.806/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T11:56:03 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634374563.091438] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=27.1 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.127/27.127/27.127/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T11:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634374563.134739] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.820 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.820/0.820/0.820/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T12:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634378162.729479] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.7 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.701/91.701/91.701/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T12:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634378162.874296] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.7 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.662/26.662/26.662/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T12:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634378162.922955] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.655 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.655/0.655/0.655/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T13:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634381762.569875] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.6 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.627/91.627/91.627/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T13:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634381762.712051] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=27.8 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.842/27.842/27.842/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T13:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634381762.761905] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=1.21 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.214/1.214/1.214/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T14:56:03 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634385363.267971] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.6 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.580/91.580/91.580/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T14:56:03 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634385363.411310] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=27.9 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.914/27.914/27.914/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T14:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634385363.464231] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=1.82 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.823/1.823/1.823/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T15:56:06 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634388966.148788] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.6 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.631/91.631/91.631/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T15:56:06 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634388966.339342] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=27.3 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.322/27.322/27.322/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T15:56:06 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634388966.384278] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=1.04 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.035/1.035/1.035/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T16:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634392562.800930] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.7 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.712/91.712/91.712/0.000 ms
+;; Query time: 96 msec
+name server 2: e.ext.nic.fr
+2021-10-16T16:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634392562.948539] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.9 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.866/26.866/26.866/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T16:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634392562.993238] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=2.26 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.257/2.257/2.257/0.000 ms
+;; Query time: 4 msec
+name server 1: d.nic.fr
+2021-10-16T17:56:03 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634396163.490039] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.6 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.580/91.580/91.580/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T17:56:03 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634396163.627136] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.9 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.898/26.898/26.898/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T17:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634396163.672535] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.640 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.640/0.640/0.640/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T18:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634399762.608174] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.7 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.655/91.655/91.655/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T18:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634399762.748097] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.7 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.697/26.697/26.697/0.000 ms
+;; Query time: 24 msec
+name server 3: f.ext.nic.fr
+2021-10-16T18:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634399762.792556] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.801 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.801/0.801/0.801/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T19:56:05 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634403365.739857] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.8 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.814/91.814/91.814/0.000 ms
+;; Query time: 88 msec
+name server 2: e.ext.nic.fr
+2021-10-16T19:56:05 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634403365.892749] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.8 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.806/26.806/26.806/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T19:56:05 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634403365.955649] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.705 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.705/0.705/0.705/0.000 ms
+;; Query time: 4 msec
+name server 1: d.nic.fr
+2021-10-16T20:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634406962.621487] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.8 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.847/91.847/91.847/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T20:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634406962.762104] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=28.0 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.034/28.034/28.034/0.000 ms
+;; Query time: 24 msec
+name server 3: f.ext.nic.fr
+2021-10-16T20:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634406962.805945] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.885 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.885/0.885/0.885/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T21:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634410562.838534] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.7 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.655/91.655/91.655/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T21:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634410562.976051] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.8 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.799/26.799/26.799/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T21:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634410563.021851] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.665 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.665/0.665/0.665/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T22:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634414162.490405] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.8 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.836/91.836/91.836/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T22:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634414162.626317] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.9 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.895/26.895/26.895/0.000 ms
+;; Query time: 24 msec
+name server 3: f.ext.nic.fr
+2021-10-16T22:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634414162.671359] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=1.10 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.103/1.103/1.103/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-16T23:56:02 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634417762.496318] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.7 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.709/91.709/91.709/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-16T23:56:02 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634417762.637702] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.8 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.770/26.770/26.770/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-16T23:56:02 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634417762.695216] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.692 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.692/0.692/0.692/0.000 ms
+;; Query time: 0 msec
+name server 1: d.nic.fr
+2021-10-17T00:56:03 EEST
+PING d.nic.fr (194.0.9.1) 56(84) bytes of data.
+[1634421363.125072] 64 bytes from d.nic.fr (194.0.9.1): icmp_seq=1 ttl=53 time=91.7 ms
+
+--- d.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 91.684/91.684/91.684/0.000 ms
+;; Query time: 92 msec
+name server 2: e.ext.nic.fr
+2021-10-17T00:56:03 EEST
+PING e.ext.nic.fr (193.176.144.22) 56(84) bytes of data.
+[1634421363.259244] 64 bytes from e.ext.nic.fr (193.176.144.22): icmp_seq=1 ttl=53 time=26.7 ms
+
+--- e.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.668/26.668/26.668/0.000 ms
+;; Query time: 28 msec
+name server 3: f.ext.nic.fr
+2021-10-17T00:56:03 EEST
+PING f.ext.nic.fr (194.146.106.46) 56(84) bytes of data.
+[1634421363.303419] 64 bytes from f.ext.nic.fr (194.146.106.46): icmp_seq=1 ttl=60 time=0.889 ms
+
+--- f.ext.nic.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.889/0.889/0.889/0.000 ms
+;; Query time: 4 msec
